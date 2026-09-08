@@ -1,0 +1,6 @@
+Coloque aqui o arquivo de logo da loja (ex: logo.png ou logo.svg), caso
+queira usar uma imagem em vez das iniciais geradas automaticamente no
+cabeçalho do site.
+
+Depois de colocar o arquivo, edite index.html e troque o elemento com
+id "brandMark" por uma tag <img src="assets/logo/logo.png" alt="Logo">.
