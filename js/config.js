@@ -25,6 +25,7 @@ const CONFIG = {
   // Se o backend rodar localmente na porta padrão, não precisa alterar.
   BACKEND_URL: "http://localhost:3000",
 };
+window.CONFIG = CONFIG;
 
 // Impede que o objeto seja alterado acidentalmente em outros arquivos.
 Object.freeze(CONFIG);
