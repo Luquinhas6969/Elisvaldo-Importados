@@ -1,0 +1,1055 @@
+[
+  {
+    "id": 1,
+    "nome": "CARREGADOR DE MOTO Q CC-016",
+    "descricao": "Carregador para moto rápido e seguro.",
+    "preco": 31.2,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/carregador-de-moto-q-cc-016.webp",
+    "destaque": false
+  },
+  {
+    "id": 2,
+    "nome": "CARREGADOR 17PRO MAX 40W USB-C",
+    "descricao": "Carregador rápido 40W com saída USB-C.",
+    "preco": 18,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-17pro-max-40w-usb-c.webp",
+    "destaque": false
+  },
+  {
+    "id": 3,
+    "nome": "INVERSOR DE ENERGIA VEICULAR AL-C373",
+    "descricao": "Inversor de energia para tomada veicular.",
+    "preco": 39.6,
+    "categoria": "Inversores",
+    "imagem": "produtos/inversor-de-energia-veicular-al-c373.webp",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "nome": "CARREGADOR VEICULAR 6IN1 120W C4",
+    "descricao": "Carregador veicular multifuncional 6 em 1.",
+    "preco": 82.8,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/carregador-veicular-6in1-120w-c4.webp",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "nome": "CARREGADOR VEICULAR 4 IN 1 E1 120W",
+    "descricao": "Carregador veicular 4 em 1 de alta potência.",
+    "preco": 45.6,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/carregador-veicular-4-in-1-e1-120w.webp",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "nome": "CARREGADOR INTELIGENTE MST-001 USB",
+    "descricao": "Carregador inteligente multiportas USB.",
+    "preco": 117.6,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-inteligente-mst-001-usb.webp",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "INVERSOR VEICULAR DE ENERGIA 220V IF-379",
+    "descricao": "Inversor de energia veicular para 220V.",
+    "preco": 150,
+    "categoria": "Inversores",
+    "imagem": "produtos/inversor-veicular-de-energia-220v-if-379.webp",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "nome": "CARREGADOR IOS TIPOC PD-20W-D KINGO",
+    "descricao": "Carregador rápido PD 20W para dispositivos iOS.",
+    "preco": 31.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-ios-tipoc-pd-20w-d-kingo.webp",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "nome": "CARREGADOR TIPOCC PD-20W-D KINGO",
+    "descricao": "Carregador rápido PD 20W com cabo Tipo-C.",
+    "preco": 31.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-tipocc-pd-20w-d-kingo.webp",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "nome": "KIT CARREGADOR Ipl3 KINGO C301",
+    "descricao": "Kit carregador com cabo para dispositivos iOS.",
+    "preco": 16.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/kit-carregador-ipl3-kingo-c301.webp",
+    "destaque": false
+  },
+  {
+    "id": 11,
+    "nome": "KIT CARREGANDO TIPOC C301 KINGO",
+    "descricao": "Kit carregador completo com cabo Tipo-C.",
+    "preco": 16.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/kit-carregando-tipoc-c301-kingo.webp",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "nome": "CARREGADOR UI02 IPI3 6W IOS",
+    "descricao": "Carregador compacto 6W para linha iOS.",
+    "preco": 13.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-ui02-ipi3-6w-ios.webp",
+    "destaque": false
+  },
+  {
+    "id": 13,
+    "nome": "CARREGADOR 33W CRG-364CI",
+    "descricao": "Carregador turbo de alta potência 33W.",
+    "preco": 27.6,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-33w-crg-364ci.webp",
+    "destaque": false
+  },
+  {
+    "id": 14,
+    "nome": "CARREGADOR TURBO 68 DUO",
+    "descricao": "Carregador turbo de dupla saída.",
+    "preco": 19.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-turbo-68-duo.webp",
+    "destaque": false
+  },
+  {
+    "id": 15,
+    "nome": "CARREGADOR TURBO 168 DUO",
+    "descricao": "Carregador turbo duo para carregamento rápido.",
+    "preco": 22.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-turbo-168-duo.webp",
+    "destaque": false
+  },
+  {
+    "id": 16,
+    "nome": "CARREGADOR CW-AC88-IP IOS",
+    "descricao": "Carregador 3.5A compatível com iOS.",
+    "preco": 12,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-cw-ac88-ip-ios.webp",
+    "destaque": false
+  },
+  {
+    "id": 17,
+    "nome": "CARREGADOR CW-AC88-C TIPOC",
+    "descricao": "Carregador 3.5A com saída Tipo-C.",
+    "preco": 12,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-cw-ac88-c-tipoc.webp",
+    "destaque": false
+  },
+  {
+    "id": 18,
+    "nome": "CARREGADOR Y15-2 IOS 3.1A",
+    "descricao": "Carregador rápido 3.1A para iOS.",
+    "preco": 6,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-y15-2-ios-31a.webp",
+    "destaque": false
+  },
+  {
+    "id": 19,
+    "nome": "KIT CARREGADOR SAMSUNG 120W TIPOCC",
+    "descricao": "Kit de carregamento ultrarrápido 120W Tipo-C.",
+    "preco": 22.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/kit-carregador-samsung-120w-tipocc.webp",
+    "destaque": false
+  },
+  {
+    "id": 20,
+    "nome": "CARREGADOR KINGO UI02 6W VB",
+    "descricao": "Carregador de tomada 6W com conector V8.",
+    "preco": 13.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-kingo-ui02-6w-vb.webp",
+    "destaque": false
+  },
+  {
+    "id": 21,
+    "nome": "CARREGADOR TIPO C KINGO 6W UI02",
+    "descricao": "Carregador de tomada 6W com conector Tipo-C.",
+    "preco": 13.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-tipo-c-kingo-6w-ui02.webp",
+    "destaque": false
+  },
+  {
+    "id": 22,
+    "nome": "CARREGADOR KINGO IOS U202",
+    "descricao": "Carregador 10W com conector compatível com iOS.",
+    "preco": 16.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-kingo-ios-u202.webp",
+    "destaque": false
+  },
+  {
+    "id": 23,
+    "nome": "CARREGADOR KING V8 U202",
+    "descricao": "Carregador 10W com conector Micro USB V8.",
+    "preco": 16.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-king-v8-u202.webp",
+    "destaque": false
+  },
+  {
+    "id": 24,
+    "nome": "CARREGADOR KING TIPOC U202",
+    "descricao": "Carregador 10W com conector Tipo-C.",
+    "preco": 16.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-king-tipoc-u202.webp",
+    "destaque": false
+  },
+  {
+    "id": 25,
+    "nome": "KIT SAM 45W CARREGADOR",
+    "descricao": "Kit carregador super rápido 45W.",
+    "preco": 18,
+    "categoria": "Carregadores",
+    "imagem": "produtos/kit-sam-45w-carregador.webp",
+    "destaque": false
+  },
+  {
+    "id": 26,
+    "nome": "CARREGADOR CHARGER No.1 VB",
+    "descricao": "Carregador simples de tomada.",
+    "preco": 1.2,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-charger-no1-vb.webp",
+    "destaque": false
+  },
+  {
+    "id": 27,
+    "nome": "ADAPTADOR VEICULAR CW-T60W",
+    "descricao": "Adaptador veicular com display digital de voltagem.",
+    "preco": 42,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/adaptador-veicular-cw-t60w.webp",
+    "destaque": false
+  },
+  {
+    "id": 29,
+    "nome": "CARREGADOR Y52-2 IOS HMASTON",
+    "descricao": "Carregador turbo 4.8A para dispositivos iOS.",
+    "preco": 10.8,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-y52-2-ios-hmaston.webp",
+    "destaque": false
+  },
+  {
+    "id": 30,
+    "nome": "CARREGADOR Y51-3 TIPOC HMASTON",
+    "descricao": "Carregador turbo 4.1A com conector Tipo-C.",
+    "preco": 11.4,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-y51-3-tipoc-hmaston.webp",
+    "destaque": false
+  },
+  {
+    "id": 31,
+    "nome": "FONTE VEICULAR KINGO C-308",
+    "descricao": "Fonte de carregamento rápido para acendedor de carro.",
+    "preco": 22.8,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/fonte-veicular-kingo-c-308.webp",
+    "destaque": false
+  },
+  {
+    "id": 32,
+    "nome": "KIT VEICULO V8 C300 KINGO",
+    "descricao": "Kit carregador veicular completo com cabo V8.",
+    "preco": 15.6,
+    "categoria": "Carregadores Veiculares",
+    "imagem": "produtos/kit-veiculo-v8-c300-kingo.webp",
+    "destaque": false
+  },
+  {
+    "id": 33,
+    "nome": "CARREGADOR 33W TIPOC LE-405",
+    "descricao": "Carregador de tomada turbo 33W com cabo Tipo-C.",
+    "preco": 14.4,
+    "categoria": "Carregadores",
+    "imagem": "produtos/carregador-33w-tipoc-le-405.webp",
+    "destaque": false
+  },
+  {
+    "id": 34,
+    "nome": "FONE EB-236",
+    "descricao": "Fone de ouvido sem fio TWS com estojo recarregável.",
+    "preco": 39.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-eb-236.webp",
+    "destaque": false
+  },
+  {
+    "id": 35,
+    "nome": "FONE EB-235",
+    "descricao": "Fone de ouvido Bluetooth TWS estéreo.",
+    "preco": 39.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-eb-235.webp",
+    "destaque": false
+  },
+  {
+    "id": 36,
+    "nome": "FONE LE-0276",
+    "descricao": "Fone de ouvido intra-auricular estéreo com fio.",
+    "preco": 20.4,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-0276.webp",
+    "destaque": false
+  },
+  {
+    "id": 37,
+    "nome": "FONE LE-0275",
+    "descricao": "Fone de ouvido estéreo intra-auricular com microfone.",
+    "preco": 19.2,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-0275.webp",
+    "destaque": false
+  },
+  {
+    "id": 38,
+    "nome": "FONE GAME GBI4471-2013",
+    "descricao": "Headset gamer com arco ajustável e som estéreo.",
+    "preco": 45.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-game-gbi4471-2013.webp",
+    "destaque": false
+  },
+  {
+    "id": 39,
+    "nome": "FONE DC-F85 DOTCELL",
+    "descricao": "Fone de ouvido intra-auricular simples com fio.",
+    "preco": 12,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-dc-f85-dotcell.webp",
+    "destaque": false
+  },
+  {
+    "id": 40,
+    "nome": "FONE BOLA LE-2468",
+    "descricao": "Fone de ouvido Bluetooth TWS com estojo formato de bola.",
+    "preco": 39.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-bola-le-2468.webp",
+    "destaque": false
+  },
+  {
+    "id": 41,
+    "nome": "FONE EB-239",
+    "descricao": "Fone de ouvido sem fio Bluetooth compacto.",
+    "preco": 33.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-eb-239.webp",
+    "destaque": false
+  },
+  {
+    "id": 42,
+    "nome": "FONE EB-602-PT",
+    "descricao": "Fone de ouvido Bluetooth TWS com display digital.",
+    "preco": 81.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-eb-602-pt.webp",
+    "destaque": false
+  },
+  {
+    "id": 43,
+    "nome": "FONE LE-2467",
+    "descricao": "Fone de ouvido gamer Bluetooth TWS de baixa latência.",
+    "preco": 48,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-2467.webp",
+    "destaque": false
+  },
+  {
+    "id": 44,
+    "nome": "FONE SEM FIO TRUE",
+    "descricao": "Fone de ouvido True Wireless Bluetooth com estojo.",
+    "preco": 45.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-sem-fio-true.webp",
+    "destaque": false
+  },
+  {
+    "id": 45,
+    "nome": "FONE HMASTON C550",
+    "descricao": "Fone de ouvido intra-auricular com fio e conector P2.",
+    "preco": 4.2,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-hmaston-c550.webp",
+    "destaque": false
+  },
+  {
+    "id": 46,
+    "nome": "FONE LE-2469",
+    "descricao": "Fone de ouvido sem fio Bluetooth estéreo.",
+    "preco": 46.8,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-2469.webp",
+    "destaque": false
+  },
+  {
+    "id": 47,
+    "nome": "FONE ON-FN650",
+    "descricao": "Headset gamer com microfone e cabo trançado.",
+    "preco": 84,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-on-fn650.webp",
+    "destaque": false
+  },
+  {
+    "id": 48,
+    "nome": "FONE LEF-1219 ISOLAMENTO ACUSTICO",
+    "descricao": "Headphone com isolamento acústico.",
+    "preco": 34.8,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-lef-1219-isolamento-acustico.webp",
+    "destaque": false
+  },
+  {
+    "id": 49,
+    "nome": "FONE EB-301",
+    "descricao": "Fone de ouvido sem fio TWS com estojo de carregamento.",
+    "preco": 66,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-eb-301.webp",
+    "destaque": false
+  },
+  {
+    "id": 50,
+    "nome": "FONE VT-A06",
+    "descricao": "Headphone dobrável de ouvido com fio P2.",
+    "preco": 12,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-vt-a06.webp",
+    "destaque": false
+  },
+  {
+    "id": 51,
+    "nome": "FONE LE-0274",
+    "descricao": "Fone de ouvido intra-auricular estéreo Pro.",
+    "preco": 20.4,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-0274.webp",
+    "destaque": false
+  },
+  {
+    "id": 52,
+    "nome": "FONE LE-0306",
+    "descricao": "Headphone Bluetooth sem fio com almofadas macias.",
+    "preco": 78,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-0306.webp",
+    "destaque": false
+  },
+  {
+    "id": 53,
+    "nome": "FONE LE-2455",
+    "descricao": "Fone de ouvido Bluetooth sem fio intra-auricular.",
+    "preco": 38.4,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-2455.webp",
+    "destaque": false
+  },
+  {
+    "id": 54,
+    "nome": "FONE LEY-2306",
+    "descricao": "Headset gamer Over-Ear com iluminação LED.",
+    "preco": 117.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-ley-2306.webp",
+    "destaque": false
+  },
+  {
+    "id": 55,
+    "nome": "FONE LE-0272",
+    "descricao": "Fone de ouvido intra-auricular estéreo Pro com fio.",
+    "preco": 21.6,
+    "categoria": "Fones de Ouvido",
+    "imagem": "produtos/fone-le-0272.webp",
+    "destaque": false
+  },
+  {
+    "id": 56,
+    "nome": "POWER BANK 20000MAH YD89",
+    "descricao": "Carregador portátil Power Bank de 20.000mAh para alta capacidade.",
+    "preco": 90,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd89.webp",
+    "destaque": false
+  },
+  {
+    "id": 57,
+    "nome": "POWER BANK 10000MAH YD93",
+    "descricao": "Carregador portátil Power Bank compacto de 10.000mAh.",
+    "preco": 69.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd93.webp",
+    "destaque": false
+  },
+  {
+    "id": 58,
+    "nome": "POWER BANK 100W 60000MAH ULTRA CE-E1140",
+    "descricao": "Power Bank Ultra de alta potência 100W e capacidade de 60.000mAh.",
+    "preco": 294,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-100w-60000mah-ultra-ce-e1140.webp",
+    "destaque": false
+  },
+  {
+    "id": 59,
+    "nome": "POWER BANK 10000MAH PB-918",
+    "descricao": "Carregador portátil Power Bank de 10.000mAh com cabo embutido.",
+    "preco": 108,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-pb-918.webp",
+    "destaque": false
+  },
+  {
+    "id": 60,
+    "nome": "POWER BANK PB-917 10000MAH",
+    "descricao": "Power Bank 10.000mAh com design slim e rápido carregamento.",
+    "preco": 102,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-pb-917-10000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 61,
+    "nome": "POWER BANK 20000MAH YD86",
+    "descricao": "Carregador portátil Power Bank de 20.000mAh eficiente.",
+    "preco": 78,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd86.webp",
+    "destaque": false
+  },
+  {
+    "id": 62,
+    "nome": "POWER BANK 10000MAH YD85",
+    "descricao": "Power Bank econômico de 10.000mAh para uso diário.",
+    "preco": 48,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd85.webp",
+    "destaque": false
+  },
+  {
+    "id": 63,
+    "nome": "POWER BANK BJB07 50000MAH 100W",
+    "descricao": "Power Bank de alta capacidade 50.000mAh e potência de 100W.",
+    "preco": 276,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-bjb07-50000mah-100w.webp",
+    "destaque": false
+  },
+  {
+    "id": 64,
+    "nome": "POWER BANK 20000MAH YD91 22.5W",
+    "descricao": "Carregador portátil Power Bank de 20.000mAh e carregamento rápido 22.5W.",
+    "preco": 93.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd91-225w.webp",
+    "destaque": false
+  },
+  {
+    "id": 65,
+    "nome": "POWER BANK 60000MAH 22.5W BJB04",
+    "descricao": "Power Bank de alta capacidade 60.000mAh com lanterna e suporte 22.5W.",
+    "preco": 234,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-60000mah-225w-bjb04.webp",
+    "destaque": false
+  },
+  {
+    "id": 66,
+    "nome": "POWER BANK BJB09 100W 20000MAH",
+    "descricao": "Power Bank turbo 100W com capacidade de 20.000mAh.",
+    "preco": 234,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-bjb09-100w-20000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 67,
+    "nome": "POWER BANK 10000MAH FY-109",
+    "descricao": "Carregador portátil Power Bank de 10.000mAh básico.",
+    "preco": 51.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-fy-109.webp",
+    "destaque": false
+  },
+  {
+    "id": 68,
+    "nome": "POWER BANK PB-919 10000MAH",
+    "descricao": "Carregador portátil Power Bank de 10.000mAh com indução Magsafe.",
+    "preco": 102,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-pb-919-10000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 69,
+    "nome": "CX DE SOM 2IN1 POWER BANK AM62",
+    "descricao": "Caixa de som Bluetooth 2 em 1 com Power Bank integrado.",
+    "preco": 120,
+    "categoria": "Power Bank",
+    "imagem": "produtos/cx-de-som-2in1-power-bank-am62.webp",
+    "destaque": false
+  },
+  {
+    "id": 70,
+    "nome": "POWER BANK 60000MAH IMS-618S",
+    "descricao": "Power Bank estação de energia de 60.000mAh multifuncional.",
+    "preco": 252,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-60000mah-ims-618s.webp",
+    "destaque": false
+  },
+  {
+    "id": 71,
+    "nome": "POWER BANK 10000MAH YD101",
+    "descricao": "Carregador portátil Power Bank de 10.000mAh com cabo retrátil.",
+    "preco": 93.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd101.webp",
+    "destaque": false
+  },
+  {
+    "id": 72,
+    "nome": "POWER BANK 50000MAH YD99",
+    "descricao": "Power Bank de alta capacidade 50.000mAh com múltiplos cabos.",
+    "preco": 180,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-50000mah-yd99.webp",
+    "destaque": false
+  },
+  {
+    "id": 73,
+    "nome": "POWER BANK 30000MAH BJB08",
+    "descricao": "Power Bank potente de 30.000mAh para carregamento rápido.",
+    "preco": 270,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-30000mah-bjb08.webp",
+    "destaque": false
+  },
+  {
+    "id": 74,
+    "nome": "POWER BANK YD100 10000MAH",
+    "descricao": "Power Bank de 10.000mAh prático e portátil.",
+    "preco": 81.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-yd100-10000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 75,
+    "nome": "POWER BANK 20000MAH BJB01",
+    "descricao": "Carregador portátil Power Bank de 20.000mAh com display digital.",
+    "preco": 150,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-bjb01.webp",
+    "destaque": false
+  },
+  {
+    "id": 76,
+    "nome": "POWER BANK 30000MAH 16W BJP02",
+    "descricao": "Power Bank de 30.000mAh com saída 16W e estrutura resistente.",
+    "preco": 186,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-30000mah-16w-bjp02.webp",
+    "destaque": false
+  },
+  {
+    "id": 77,
+    "nome": "POWER BANK 30000MAH YD84",
+    "descricao": "Carregador portátil Power Bank de 30.000mAh com alça de transporte.",
+    "preco": 204,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-30000mah-yd84.webp",
+    "destaque": false
+  },
+  {
+    "id": 78,
+    "nome": "POWER BANK 10000MAH H967",
+    "descricao": "Power Bank básico e ultrafino de 10.000mAh.",
+    "preco": 45.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-h967.webp",
+    "destaque": false
+  },
+  {
+    "id": 79,
+    "nome": "POWER BANK 30000MAH YD80",
+    "descricao": "Power Bank de 30.000mAh com cabos acoplados e alça.",
+    "preco": 120,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-30000mah-yd80.webp",
+    "destaque": false
+  },
+  {
+    "id": 80,
+    "nome": "POWER BANK 50000MAH PB-998",
+    "descricao": "Power Bank robusto de 50.000mAh para longas viagens.",
+    "preco": 264,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-50000mah-pb-998.webp",
+    "destaque": false
+  },
+  {
+    "id": 81,
+    "nome": "POWER BANK 10000MAH PB-930",
+    "descricao": "Power Bank de 10.000mAh com carregamento sem fio.",
+    "preco": 105.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-pb-930.webp",
+    "destaque": false
+  },
+  {
+    "id": 82,
+    "nome": "POWER BANK YD81 20000MAH",
+    "descricao": "Power Bank de 20.000mAh com display e cabos integrados.",
+    "preco": 94.8,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-yd81-20000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 83,
+    "nome": "POWER BANK 10000MAH YD82",
+    "descricao": "Carregador portátil Power Bank de 10.000mAh texturizado.",
+    "preco": 66,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd82.webp",
+    "destaque": false
+  },
+  {
+    "id": 84,
+    "nome": "POWER BANK 20000MAH YD83",
+    "descricao": "Power Bank de 20.000mAh com acabamento metálico elegante.",
+    "preco": 82.8,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd83.webp",
+    "destaque": false
+  },
+  {
+    "id": 85,
+    "nome": "POWER BANK 10000MAH YD75 HMASTON",
+    "descricao": "Power Bank Hmaston de 10.000mAh compacto e rápido.",
+    "preco": 81.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd75-hmaston.webp",
+    "destaque": false
+  },
+  {
+    "id": 86,
+    "nome": "POWER BANK 20000MAH YD79",
+    "descricao": "Power Bank de 20.000mAh com design slim e conectores inclusos.",
+    "preco": 82.8,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd79.webp",
+    "destaque": false
+  },
+  {
+    "id": 87,
+    "nome": "POWER BANK YD78 10000MAH",
+    "descricao": "Power Bank compacto de 10.000mAh com indicadores LED.",
+    "preco": 66,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-yd78-10000mah.webp",
+    "destaque": false
+  },
+  {
+    "id": 88,
+    "nome": "POWER BANK 10000MAH YD72",
+    "descricao": "Power Bank de 10.000mAh slim com cabo acoplado.",
+    "preco": 84,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-10000mah-yd72.webp",
+    "destaque": false
+  },
+  {
+    "id": 89,
+    "nome": "POWER BANK 20000MAH YD71",
+    "descricao": "Power Bank de 20.000mAh com suporte para celular.",
+    "preco": 81.6,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-20000mah-yd71.webp",
+    "destaque": false
+  },
+  {
+    "id": 90,
+    "nome": "POWER BANK 50000MAH 65W PB-960",
+    "descricao": "Power Bank de 50.000mAh Turbo 65W com alça de couro.",
+    "preco": 258,
+    "categoria": "Power Bank",
+    "imagem": "produtos/power-bank-50000mah-65w-pb-960.webp",
+    "destaque": false
+  },
+  {
+    "id": 91,
+    "nome": "CX DE SOM DE PC BM-S205",
+    "descricao": "Caixa de som para PC compacta BM-S205 com conexão P2 e alimentação USB.",
+    "preco": 14.4,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-de-pc-bm-s205.webp",
+    "destaque": false
+  },
+  {
+    "id": 92,
+    "nome": "SOM AUTOMOTIVO LEY-1851A",
+    "descricao": "Som automotivo LEY-1851A com suporte a Bluetooth, USB, SD e rádio FM.",
+    "preco": 57.6,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/som-automotivo-ley-1851a.webp",
+    "destaque": false
+  },
+  {
+    "id": 93,
+    "nome": "MOCHILA C/ CX DE SOM D-BAG4",
+    "descricao": "Mochila multifuncional com caixa de som Bluetooth integrada D-BAG4.",
+    "preco": 78,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/mochila-c-cx-de-som-d-bag4.webp",
+    "destaque": false
+  },
+  {
+    "id": 94,
+    "nome": "LAMPADA C/ SOM D-LY04",
+    "descricao": "Lâmpada LED de teto com caixa de som Bluetooth integrada D-LY04 e controle remoto.",
+    "preco": 36,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/lampada-c-som-d-ly04.webp",
+    "destaque": false
+  },
+  {
+    "id": 95,
+    "nome": "LAMPADA C/ SOM D-LY06",
+    "descricao": "Lâmpada LED musical RGB com caixa de som Bluetooth D-LY06.",
+    "preco": 14.4,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/lampada-c-som-d-ly06.webp",
+    "destaque": false
+  },
+  {
+    "id": 96,
+    "nome": "LAMPADA C/ SOM D-LY01",
+    "descricao": "Lâmpada LED de teto articulada com caixa de som Bluetooth D-LY01.",
+    "preco": 32.4,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/lampada-c-som-d-ly01.webp",
+    "destaque": false
+  },
+  {
+    "id": 97,
+    "nome": "MINI CAIXA DE SOM PC D-GP208",
+    "descricao": "Mini caixa de som para PC D-GP208 com iluminação RGB.",
+    "preco": 84,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/mini-caixa-de-som-pc-d-gp208.webp",
+    "destaque": false
+  },
+  {
+    "id": 98,
+    "nome": "CX DE SOM D-G570",
+    "descricao": "Caixa de som portátil D-G570 com Bluetooth e alça de transporte.",
+    "preco": 81.6,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-g570.webp",
+    "destaque": false
+  },
+  {
+    "id": 99,
+    "nome": "CX DE SOM PC D-GP206",
+    "descricao": "Par de caixas de som para PC D-GP206 com iluminação RGB.",
+    "preco": 42,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-pc-d-gp206.webp",
+    "destaque": false
+  },
+  {
+    "id": 100,
+    "nome": "CAIXA DE SOM D-K001",
+    "descricao": "Caixa de som portátil D-K001 com microfone e iluminação LED.",
+    "preco": 42,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-k001.webp",
+    "destaque": false
+  },
+  {
+    "id": 101,
+    "nome": "CAIXA DE SOM D-K003",
+    "descricao": "Caixa de som estilo G-Speaker D-K003 com carregador por indução e LED RGB.",
+    "preco": 60,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-k003.webp",
+    "destaque": false
+  },
+  {
+    "id": 102,
+    "nome": "CAIXA DE SOM D-G198",
+    "descricao": "Caixa de som portátil D-G198 compacta com alça e Bluetooth.",
+    "preco": 30,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-g198.webp",
+    "destaque": false
+  },
+  {
+    "id": 103,
+    "nome": "CAIXA DE SOM D-K002",
+    "descricao": "Caixa de som portátil D-K002 com microfone e luzes RGB.",
+    "preco": 66,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-k002.webp",
+    "destaque": false
+  },
+  {
+    "id": 104,
+    "nome": "CAIXA DE SOM D-S2203",
+    "descricao": "Caixa de som D-S2203 potente com alça de transporte e Bluetooth.",
+    "preco": 102,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-s2203.webp",
+    "destaque": false
+  },
+  {
+    "id": 105,
+    "nome": "CX DE SOM D-GP204",
+    "descricao": "Caixa de som para PC Gamer D-GP204 com iluminação RGB.",
+    "preco": 74.4,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-gp204.webp",
+    "destaque": false
+  },
+  {
+    "id": 106,
+    "nome": "CX DE SOM D-G330",
+    "descricao": "Caixa de som portátil D-G330 potente com iluminação RGB.",
+    "preco": 102,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-g330.webp",
+    "destaque": false
+  },
+  {
+    "id": 107,
+    "nome": "CX DE SOM C/ RELOGIO D-G120",
+    "descricao": "Caixa de som portátil D-G120 com relógio digital e alarme.",
+    "preco": 42,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-c-relogio-d-g120.webp",
+    "destaque": false
+  },
+  {
+    "id": 108,
+    "nome": "CAIXA DE SOM D-XK309",
+    "descricao": "Caixa de som de alta potência D-XK309 com microfone e LED RGB.",
+    "preco": 576,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-xk309.webp",
+    "destaque": false
+  },
+  {
+    "id": 109,
+    "nome": "CX DE SOM D-K004",
+    "descricao": "Caixa de som portátil D-K004 com microfone e luzes coloridas.",
+    "preco": 150,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-k004.webp",
+    "destaque": false
+  },
+  {
+    "id": 110,
+    "nome": "CX DE SOM D-X801",
+    "descricao": "Caixa de som portátil D-X801 com iluminação LED e alça.",
+    "preco": 45.6,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-x801.webp",
+    "destaque": false
+  },
+  {
+    "id": 111,
+    "nome": "CAIXA DE SOM D-G280",
+    "descricao": "Caixa de som D-G280 com efeito de chama LED e som potente.",
+    "preco": 81.6,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/caixa-de-som-d-g280.webp",
+    "destaque": false
+  },
+  {
+    "id": 112,
+    "nome": "CX DE SOM D-DM02",
+    "descricao": "Torre de som potente D-DM02 com subwoofer e LED.",
+    "preco": 600,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-dm02.webp",
+    "destaque": false
+  },
+  {
+    "id": 113,
+    "nome": "CX DE SOM D-DM03",
+    "descricao": "Sistema de som Home Theater D-DM03 220W de alta potência.",
+    "preco": 960,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-dm03.webp",
+    "destaque": false
+  },
+  {
+    "id": 114,
+    "nome": "CX DE SOM SOUNDBAR D-BAR02",
+    "descricao": "Caixa de som Soundbar D-BAR02 para TV e PC com subwoofer.",
+    "preco": 420,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-soundbar-d-bar02.webp",
+    "destaque": false
+  },
+  {
+    "id": 115,
+    "nome": "CX DE SOM AL-652",
+    "descricao": "Caixa de som portátil AL-652 com Bluetooth e rádio FM.",
+    "preco": 31.2,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-al-652.webp",
+    "destaque": false
+  },
+  {
+    "id": 116,
+    "nome": "CX DE SOM D-XK422",
+    "descricao": "Caixa de som profissional D-XK422 com tela e microfones.",
+    "preco": 1536,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-d-xk422.webp",
+    "destaque": false
+  },
+  {
+    "id": 117,
+    "nome": "CX DE SOM IMS-X69 C/MICROFONE 500W",
+    "descricao": "Caixa de som Imenso IMS-X69 500W potente com microfone sem fio.",
+    "preco": 2220,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-ims-x69-cmicrofone-500w.webp",
+    "destaque": false
+  },
+  {
+    "id": 118,
+    "nome": "CX DE SOM IMENSA IMS-X23",
+    "descricao": "Caixa de som Imenso IMS-X23 portátil resistente à água 100W.",
+    "preco": 348,
+    "categoria": "Caixa de Som",
+    "imagem": "produtos/cx-de-som-imensa-ims-x23.webp",
+    "destaque": false
+  }
+]
