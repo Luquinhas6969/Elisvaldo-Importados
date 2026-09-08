@@ -250,34 +250,33 @@
   // -----------------------------------------------------------------
   // WHATSAPP
   // -----------------------------------------------------------------
- function formatarNumeroWhatsapp(numero) {
-  // Remove parênteses, hífens, espaços e o sinal '+'
-  const numLimpo = (numero || "").replace(/\D/g, "");
-  return numLimpo;
+ function obterNumeroWhatsapp() {
+  const config = window.CONFIG || (typeof CONFIG !== "undefined" ? CONFIG : null);
+  const numero = config ? config.WHATSAPP_NUMBER : "";
+  return numero.replace(/\D/g, ""); // Garante apenas números
 }
 
 function gerarLinkWhatsapp(nomeProduto) {
-  const numeroBruto = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
-  const numero = formatarNumeroWhatsapp(numeroBruto);
+  const numero = obterNumeroWhatsapp();
+  const config = window.CONFIG || (typeof CONFIG !== "undefined" ? CONFIG : null);
+  const template = config
+    ? config.WHATSAPP_MESSAGE_TEMPLATE
+    : "Olá! Tenho interesse no produto: {produto}.";
 
-  const template =
-    (window.CONFIG && CONFIG.WHATSAPP_MESSAGE_TEMPLATE) ||
-    "Olá! Tenho interesse no produto: {produto}.";
   const mensagem = template.replace("{produto}", nomeProduto);
 
-  return `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
+  return `https://api.whatsapp.com/send?phone=${numero}&text=${encodeURIComponent(mensagem)}`;
 }
 
 function configurarWhatsappFlutuante() {
   const link = document.getElementById("floatingWhatsapp");
   const footerLink = document.getElementById("footerWhatsapp");
-  const numeroBruto = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
-  const numero = formatarNumeroWhatsapp(numeroBruto);
+  const numero = obterNumeroWhatsapp();
 
   const mensagemGenerica = encodeURIComponent(
     "Olá! Vim pelo catálogo online e gostaria de mais informações."
   );
-  const href = `https://wa.me/${numero}?text=${mensagemGenerica}`;
+  const href = `https://api.whatsapp.com/send?phone=${numero}&text=${mensagemGenerica}`;
 
   if (link) link.href = href;
   if (footerLink) footerLink.href = href;
