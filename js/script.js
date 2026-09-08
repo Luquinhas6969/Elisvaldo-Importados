@@ -250,26 +250,38 @@
   // -----------------------------------------------------------------
   // WHATSAPP
   // -----------------------------------------------------------------
-  function gerarLinkWhatsapp(nomeProduto) {
-    const numero = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
-    const template =
-      (window.CONFIG && CONFIG.WHATSAPP_MESSAGE_TEMPLATE) ||
-      "Olá! Tenho interesse no produto: {produto}.";
-    const mensagem = template.replace("{produto}", nomeProduto);
-    return `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
-  }
+ function formatarNumeroWhatsapp(numero) {
+  // Remove parênteses, hífens, espaços e o sinal '+'
+  const numLimpo = (numero || "").replace(/\D/g, "");
+  return numLimpo;
+}
 
-  function configurarWhatsappFlutuante() {
-    const link = document.getElementById("floatingWhatsapp");
-    const footerLink = document.getElementById("footerWhatsapp");
-    const numero = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
-    const mensagemGenerica = encodeURIComponent(
-      "Olá! Vim pelo catálogo online e gostaria de mais informações."
-    );
-    const href = `https://wa.me/${numero}?text=${mensagemGenerica}`;
-    if (link) link.href = href;
-    if (footerLink) footerLink.href = href;
-  }
+function gerarLinkWhatsapp(nomeProduto) {
+  const numeroBruto = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
+  const numero = formatarNumeroWhatsapp(numeroBruto);
+
+  const template =
+    (window.CONFIG && CONFIG.WHATSAPP_MESSAGE_TEMPLATE) ||
+    "Olá! Tenho interesse no produto: {produto}.";
+  const mensagem = template.replace("{produto}", nomeProduto);
+
+  return `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
+}
+
+function configurarWhatsappFlutuante() {
+  const link = document.getElementById("floatingWhatsapp");
+  const footerLink = document.getElementById("footerWhatsapp");
+  const numeroBruto = (window.CONFIG && CONFIG.WHATSAPP_NUMBER) || "";
+  const numero = formatarNumeroWhatsapp(numeroBruto);
+
+  const mensagemGenerica = encodeURIComponent(
+    "Olá! Vim pelo catálogo online e gostaria de mais informações."
+  );
+  const href = `https://wa.me/${numero}?text=${mensagemGenerica}`;
+
+  if (link) link.href = href;
+  if (footerLink) footerLink.href = href;
+}
 
   // -----------------------------------------------------------------
   // MENU MOBILE
