@@ -1052,13 +1052,14 @@
     "imagem": "produtos/cx-de-som-imensa-ims-x23.webp",
     "destaque": false
   },
+  [
   {
     "id": 119,
     "nome": "CARRINHO POWERFUL TK-AB4329",
     "descricao": "Conjunto de carrinhos Powerful TK-AB4329 com fricção e acessórios.",
     "preco": 14.4,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-powerful-tk-ab4329.webp",
+    "imagem": "produtos/carrinho-powerful-tk-ab4329.webp",
     "destaque": false
   },
   {
@@ -1067,7 +1068,7 @@
     "descricao": "Carrinho de golfe de brinquedo TK-AB3777 com boneca e acessórios de praia.",
     "preco": 51.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-de-golfe-tk-ab3777.webp",
+    "imagem": "produtos/carrinho-de-golfe-tk-ab3777.webp",
     "destaque": false
   },
   {
@@ -1076,7 +1077,7 @@
     "descricao": "Kit de beleza infantil de princesas TK-AB5593 com pente e varinha.",
     "preco": 9.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-de-princesas-tk-ab5593.webp",
+    "imagem": "produtos/brinquedo-de-princesas-tk-ab5593.webp",
     "destaque": false
   },
   {
@@ -1085,7 +1086,7 @@
     "descricao": "Castelo da Princesa TK-AB3778 com móveis e mini figuras.",
     "preco": 39.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/castelo-tk-ab3778.webp",
+    "imagem": "produtos/castelo-tk-ab3778.webp",
     "destaque": false
   },
   {
@@ -1094,7 +1095,7 @@
     "descricao": "Brinquedo de cavalo TK-AB0691 com sela e acessórios de cuidados.",
     "preco": 12,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/cavalo-tk-ab0691.webp",
+    "imagem": "produtos/cavalo-tk-ab0691.webp",
     "destaque": false
   },
   {
@@ -1103,7 +1104,7 @@
     "descricao": "Cachorrinho robô inteligente TK-AB4452 com controle remoto.",
     "preco": 285.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/cachorrinho-robo-tk-ab4452.webp",
+    "imagem": "produtos/cachorrinho-robo-tk-ab4452.webp",
     "destaque": false
   },
   {
@@ -1112,7 +1113,7 @@
     "descricao": "Blocos de montar educativos TK-AB3803 para criar figuras divertidas.",
     "preco": 22.8,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bloco-de-montar-tk-ab3803.webp",
+    "imagem": "produtos/bloco-de-montar-tk-ab3803.webp",
     "destaque": false
   },
   {
@@ -1121,7 +1122,7 @@
     "descricao": "Carrinho de controle remoto TK-AB9241 esportivo com luzes.",
     "preco": 54,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-tk-ab9241.webp",
+    "imagem": "produtos/carrinho-tk-ab9241.webp",
     "destaque": false
   },
   {
@@ -1130,7 +1131,7 @@
     "descricao": "Carrinho estilo Barbie TK-AB9230 conversível de controle remoto.",
     "preco": 84,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-barbe-tk-ab9230.webp",
+    "imagem": "produtos/carrinho-barbe-tk-ab9230.webp",
     "destaque": false
   },
   {
@@ -1139,7 +1140,7 @@
     "descricao": "Jogo de mini basquete infantil TK-AB3785 com tabela e bola.",
     "preco": 60,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-mini-basquete-tk-ab3785.webp",
+    "imagem": "produtos/brinquedo-mini-basquete-tk-ab3785.webp",
     "destaque": false
   },
   {
@@ -1148,7 +1149,7 @@
     "descricao": "Pista autorama para carrinhos TK-AB3749 com percurso dinâmico.",
     "preco": 126,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/pista-de-carrinho-tk-ab3749.webp",
+    "imagem": "produtos/pista-de-carrinho-tk-ab3749.webp",
     "destaque": false
   },
   {
@@ -1157,7 +1158,7 @@
     "descricao": "Pista de corrida com temática espacial TK-AB0778 e trilhos.",
     "preco": 90,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-nave-tk-ab0778.webp",
+    "imagem": "produtos/brinquedo-nave-tk-ab0778.webp",
     "destaque": false
   },
   {
@@ -1166,7 +1167,7 @@
     "descricao": "Pista aquática Water Park TK-AB4516 com circuito de água e barco.",
     "preco": 156,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-water-park-tk-ab4516.webp",
+    "imagem": "produtos/brinquedo-water-park-tk-ab4516.webp",
     "destaque": false
   },
   {
@@ -1175,7 +1176,7 @@
     "descricao": "Mini boneca fofinha XZ-2701 com touquinha e roupinha temática.",
     "preco": 8.4,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/mini-boneca-xz-2701-und.webp",
+    "imagem": "produtos/mini-boneca-xz-2701-und.webp",
     "destaque": false
   },
   {
@@ -1184,7 +1185,7 @@
     "descricao": "Bonecos de pelúcia Toy Story 9636 dos personagens do filme.",
     "preco": 27.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bonecos-toy-story-9636.webp",
+    "imagem": "produtos/bonecos-toy-story-9636.webp",
     "destaque": false
   },
   {
@@ -1193,7 +1194,7 @@
     "descricao": "Bola de futebol infantil temática do Homem-Aranha 9606.",
     "preco": 22.8,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bola-spider-man-9606.webp",
+    "imagem": "produtos/bola-spider-man-9606.webp",
     "destaque": false
   },
   {
@@ -1202,7 +1203,7 @@
     "descricao": "Bola de futebol infantil estampada com escudos de times 9605.",
     "preco": 22.8,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bola-time-9605.webp",
+    "imagem": "produtos/bola-time-9605.webp",
     "destaque": false
   },
   {
@@ -1211,7 +1212,7 @@
     "descricao": "Carro de blocos de montar estilo Lego XZ-2749 tipo picape off-road.",
     "preco": 102,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carro-lego-xz-2749.webp",
+    "imagem": "produtos/carro-lego-xz-2749.webp",
     "destaque": false
   },
   {
@@ -1220,7 +1221,7 @@
     "descricao": "Boneca articulada OA634 com vestido longo de gala.",
     "preco": 26.4,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/boneca-oa634.webp",
+    "imagem": "produtos/boneca-oa634.webp",
     "destaque": false
   },
   {
@@ -1229,7 +1230,7 @@
     "descricao": "Miniatura de moto esportiva JMIX3935 rica em detalhes.",
     "preco": 21.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/mini-moto-jmix3935.webp",
+    "imagem": "produtos/mini-moto-jmix3935.webp",
     "destaque": false
   },
   {
@@ -1238,7 +1239,7 @@
     "descricao": "Kit de fantoches de dedo em formato de dinossauro YX-98.",
     "preco": 27.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/dino-de-dedo-yx-98.webp",
+    "imagem": "produtos/dino-de-dedo-yx-98.webp",
     "destaque": false
   },
   {
@@ -1247,7 +1248,7 @@
     "descricao": "Brinquedo montável educativo de 142 peças JMIX3957.",
     "preco": 192,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-montavel-142pcs-jmix3957.webp",
+    "imagem": "produtos/brinquedo-montavel-142pcs-jmix3957.webp",
     "destaque": false
   },
   {
@@ -1256,7 +1257,7 @@
     "descricao": "Tapete de bateria eletrônica MSY-9910 dobrável com baquetas.",
     "preco": 237.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bateria-eletronica-msy-9910.webp",
+    "imagem": "produtos/bateria-eletronica-msy-9910.webp",
     "destaque": false
   },
   {
@@ -1265,7 +1266,7 @@
     "descricao": "Miniatura de bicicleta de dedo MC-7376 com ferramentas.",
     "preco": 21.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/mini-bicicleta-mc-7376-und.webp",
+    "imagem": "produtos/mini-bicicleta-mc-7376-und.webp",
     "destaque": false
   },
   {
@@ -1274,7 +1275,7 @@
     "descricao": "Miniatura de bicicleta de dedo esportiva MC-7375.",
     "preco": 21.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/mini-bicicleta-mc-7375.webp",
+    "imagem": "produtos/mini-bicicleta-mc-7375.webp",
     "destaque": false
   },
   {
@@ -1283,7 +1284,7 @@
     "descricao": "Carrinho de fricção Monster Truck XZ-2818 com grandes rodas.",
     "preco": 33.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-xz-2818-und.webp",
+    "imagem": "produtos/carrinho-xz-2818-und.webp",
     "destaque": false
   },
   {
@@ -1292,7 +1293,7 @@
     "descricao": "Drone dobrável AJ-028-C com câmera e controle remoto.",
     "preco": 312,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/drone-aj-028-c.webp",
+    "imagem": "produtos/drone-aj-028-c.webp",
     "destaque": false
   },
   {
@@ -1301,7 +1302,7 @@
     "descricao": "Drone infantil com hélices protegidas AJ-033-H e controle.",
     "preco": 174,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/drone-aj-033-h.webp",
+    "imagem": "produtos/drone-aj-033-h.webp",
     "destaque": false
   },
   {
@@ -1310,7 +1311,7 @@
     "descricao": "Cachorrinho de pelúcia interativo JMIX3588 com som e coleira.",
     "preco": 102,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/cachorrinho-fofo-jmix3588.webp",
+    "imagem": "produtos/cachorrinho-fofo-jmix3588.webp",
     "destaque": false
   },
   {
@@ -1319,7 +1320,7 @@
     "descricao": "Carro de controle remoto H-5416 com solta fumaça/spray e luzes.",
     "preco": 132,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carro-spray-h-5416.webp",
+    "imagem": "produtos/carro-spray-h-5416.webp",
     "destaque": false
   },
   {
@@ -1328,7 +1329,7 @@
     "descricao": "Boneca estilo Reborn DC221 de 45cm com roupinha e chupeta.",
     "preco": 180,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/boneca-reborn-dc221-45cm.webp",
+    "imagem": "produtos/boneca-reborn-dc221-45cm.webp",
     "destaque": false
   },
   {
@@ -1337,7 +1338,7 @@
     "descricao": "Boneca bebê Reborn realista de 45cm DC224/DC223.",
     "preco": 300,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/boneca-reborn-dc224-dc223-45cm.webp",
+    "imagem": "produtos/boneca-reborn-dc224-dc223-45cm.webp",
     "destaque": false
   },
   {
@@ -1346,7 +1347,7 @@
     "descricao": "Tubinho de bolha de sabão infantil GK2965.",
     "preco": 3,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bolha-de-sabao-gk2965.webp",
+    "imagem": "produtos/bolha-de-sabao-gk2965.webp",
     "destaque": false
   },
   {
@@ -1355,7 +1356,7 @@
     "descricao": "Tubinho de bolha de sabão GK3537GD com tampa decorativa.",
     "preco": 3,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bolha-de-sabao-gk3537gd.webp",
+    "imagem": "produtos/bolha-de-sabao-gk3537gd.webp",
     "destaque": false
   },
   {
@@ -1364,7 +1365,7 @@
     "descricao": "Carrinho de corrida esportivo de fricção XZ-2822.",
     "preco": 27.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-xz-2822-und.webp",
+    "imagem": "produtos/carrinho-xz-2822-und.webp",
     "destaque": false
   },
   {
@@ -1373,7 +1374,7 @@
     "descricao": "Carrinho SUV de fricção XZ-2819 com design realista.",
     "preco": 36,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-xz-2819-und.webp",
+    "imagem": "produtos/carrinho-xz-2819-und.webp",
     "destaque": false
   },
   {
@@ -1382,7 +1383,7 @@
     "descricao": "Carrinho de fricção modelo executivo XZ-2828.",
     "preco": 36,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-xz-2828-und.webp",
+    "imagem": "produtos/carrinho-xz-2828-und.webp",
     "destaque": false
   },
   {
@@ -1391,7 +1392,7 @@
     "descricao": "Carrinho de corrida miniatura XZ-2831.",
     "preco": 38.4,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-xz-2831-und.webp",
+    "imagem": "produtos/carrinho-xz-2831-und.webp",
     "destaque": false
   },
   {
@@ -1400,7 +1401,7 @@
     "descricao": "Miniatura clássica de Fusca MC-7589 em metal de fricção.",
     "preco": 31.2,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/fusca-mc-7589-und.webp",
+    "imagem": "produtos/fusca-mc-7589-und.webp",
     "destaque": false
   },
   {
@@ -1409,7 +1410,7 @@
     "descricao": "Miniatura de carro clássico retrô MC-7046.",
     "preco": 16.8,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carrinho-mc-7046-und.webp",
+    "imagem": "produtos/carrinho-mc-7046-und.webp",
     "destaque": false
   },
   {
@@ -1418,7 +1419,7 @@
     "descricao": "Miniatura / Brinquedo de capivara JF-241.",
     "preco": 6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/capivara-jf-241.webp",
+    "imagem": "produtos/capivara-jf-241.webp",
     "destaque": false
   },
   {
@@ -1427,7 +1428,7 @@
     "descricao": "Frasco de bolha de sabão CP171552.",
     "preco": 3,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bolha-de-sabao-cp171552.webp",
+    "imagem": "produtos/bolha-de-sabao-cp171552.webp",
     "destaque": false
   },
   {
@@ -1436,7 +1437,7 @@
     "descricao": "Lança bolhas de sabão CP171567.",
     "preco": 3,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bolha-de-sabao-cp171567.webp",
+    "imagem": "produtos/bolha-de-sabao-cp171567.webp",
     "destaque": false
   },
   {
@@ -1445,7 +1446,7 @@
     "descricao": "Tubinho de bolha de sabão CP171564.",
     "preco": 3,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bolha-de-sabao-cp171564.webp",
+    "imagem": "produtos/bolha-de-sabao-cp171564.webp",
     "destaque": false
   },
   {
@@ -1454,7 +1455,7 @@
     "descricao": "Conjunto de caminhões de brinquedo para areia XZ-2609.",
     "preco": 19.2,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/caminhao-de-areia-xz-2609-und.webp",
+    "imagem": "produtos/caminhao-de-areia-xz-2609-und.webp",
     "destaque": false
   },
   {
@@ -1463,7 +1464,7 @@
     "descricao": "Boneca fashion OA208 com cãozinho de estimação.",
     "preco": 42,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/boneca-c-cachorro-oa208.webp",
+    "imagem": "produtos/boneca-c-cachorro-oa208.webp",
     "destaque": false
   },
   {
@@ -1472,7 +1473,7 @@
     "descricao": "Par de bonecos tema surfistas OA029 com trajes de praia.",
     "preco": 42,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/bonecos-surfistas-oa029.webp",
+    "imagem": "produtos/bonecos-surfistas-oa029.webp",
     "destaque": false
   },
   {
@@ -1481,7 +1482,7 @@
     "descricao": "Carro de blocos de montar estilo Lego XZ-2748 super esportivo.",
     "preco": 102,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/carro-lego-xz-2748.webp",
+    "imagem": "produtos/carro-lego-xz-2748.webp",
     "destaque": false
   },
   {
@@ -1490,7 +1491,7 @@
     "descricao": "Carro de blocos de montar estilo Lego XZ-2747 de corrida.",
     "preco": 102,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/lego-carro-xz-2747.webp",
+    "imagem": "produtos/lego-carro-xz-2747.webp",
     "destaque": false
   },
   {
@@ -1499,7 +1500,7 @@
     "descricao": "Jogo de encaixe pedagógico interativo GEN-157.",
     "preco": 9.6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-interativo-gen-157.webp",
+    "imagem": "produtos/brinquedo-interativo-gen-157.webp",
     "destaque": false
   },
   {
@@ -1508,7 +1509,7 @@
     "descricao": "Jogo pedagógico interativo GEN-155 infantil em madeira.",
     "preco": 6,
     "categoria": "Brinquedos",
-    "imagem": "assets/produtos/brinquedo-interativo-gen-155.webp",
+    "imagem": "produtos/brinquedo-interativo-gen-155.webp",
     "destaque": false
   }
 ]
