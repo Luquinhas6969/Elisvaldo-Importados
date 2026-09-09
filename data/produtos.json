@@ -1515,7 +1515,7 @@
     "id": 170,
     "nome": "COMBI C/ CONTROLE REMOTO XZ-2729",
     "descricao": "Kombi de brinquedo com controle remoto modelo XZ-2729.",
-    "preco": 35,
+    "preco": 42,
     "categoria": "Brinquedos",
     "imagem": "produtos/combi-c-controle-remoto-xz-2729.webp",
     "destaque": false
@@ -1524,7 +1524,7 @@
     "id": 171,
     "nome": "FUSCA BRASIL C/ CONTROLE REMOTO XZ-2707",
     "descricao": "Carrinho Fusca Brasil de brinquedo com controle remoto XZ-2707.",
-    "preco": 49,
+    "preco": 58.8,
     "categoria": "Brinquedos",
     "imagem": "produtos/fusca-brasil-c-controle-remoto-xz-2707.webp",
     "destaque": false
@@ -1533,7 +1533,7 @@
     "id": 172,
     "nome": "TRATOR DE CONTROLE REMOTO DFXL3450",
     "descricao": "Trator de brinquedo com controle remoto modelo DFXL3450.",
-    "preco": 160,
+    "preco": 192,
     "categoria": "Brinquedos",
     "imagem": "produtos/trator-de-controle-remoto-dfxl3450.webp",
     "destaque": false
@@ -1542,7 +1542,7 @@
     "id": 173,
     "nome": "GUINDASTE DE CONTROLE REMOTO 176A",
     "descricao": "Guindaste de brinquedo com controle remoto modelo 176A.",
-    "preco": 98,
+    "preco": 117.6,
     "categoria": "Brinquedos",
     "imagem": "produtos/guindaste-de-controle-remoto-176a.webp",
     "destaque": false
@@ -1551,7 +1551,7 @@
     "id": 174,
     "nome": "ROBO C/ CONTROLE REMOTO MK-1385",
     "descricao": "Robô de brinquedo com controle remoto modelo MK-1385.",
-    "preco": 98,
+    "preco": 117.6,
     "categoria": "Brinquedos",
     "imagem": "produtos/robo-c-controle-remoto-mk-1385.webp",
     "destaque": false
@@ -1560,7 +1560,7 @@
     "id": 175,
     "nome": "SUPER VIATURA CONTROLE REMOTO TK-1023",
     "descricao": "Super viatura policial de brinquedo com controle remoto TK-1023.",
-    "preco": 38,
+    "preco": 45.6,
     "categoria": "Brinquedos",
     "imagem": "produtos/super-viatura-controle-remoto-tk-1023.webp",
     "destaque": false
@@ -1569,7 +1569,7 @@
     "id": 176,
     "nome": "CAMINHAO DE CIMENTO DE BRINQUEDO COM CONTROLE REMOTO",
     "descricao": "Caminhão de cimento de brinquedo com controle remoto.",
-    "preco": 36,
+    "preco": 43.2,
     "categoria": "Brinquedos",
     "imagem": "produtos/caminhao-de-cimento-de-brinquedo-com-controle-remoto.webp",
     "destaque": false
@@ -1578,7 +1578,7 @@
     "id": 177,
     "nome": "CARRINHO DE CONTROLE REMOTO XZ-1745",
     "descricao": "Carrinho de corrida com controle remoto modelo XZ-1745.",
-    "preco": 90,
+    "preco":108 ,
     "categoria": "Brinquedos",
     "imagem": "produtos/carrinho-de-controle-remoto-xz-1745.webp",
     "destaque": false
