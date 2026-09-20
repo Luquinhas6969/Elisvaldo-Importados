@@ -1582,5 +1582,124 @@
     "categoria": "Brinquedos",
     "imagem": "produtos/carrinho-de-controle-remoto-xz-1745.webp",
     "destaque": false
+  },
+  
+  {
+    "id": 200,
+    "nome": "KIT 6 PCS PONTAS DE CHAVE BOM-5055",
+    "descricao": "Jogo com 6 peças de pontas de chave Phillips prolongadas BOM-5055.",
+    "preco": 12,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/kit-6-pcs-pontas-de-chave-bom-5055.webp",
+    "destaque": false
+  },
+  {
+    "id": 201,
+    "nome": "SERRA COPO BOM-5673",
+    "descricao": "Serra copo ajustável/regulável modelo BOM-5673.",
+    "preco": 40.8,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/serra-copo-bom-5673.webp",
+    "destaque": false
+  },
+  {
+    "id": 202,
+    "nome": "JOGO DE SERRA COPO BOM-5220",
+    "descricao": "Jogo de serra copo em estojo modelo BOM-5220 com acessórios.",
+    "preco": 34.8,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/jogo-de-serra-copo-bom-5220.webp",
+    "destaque": false
+  },
+  {
+    "id": 203,
+    "nome": "ADAPTADOR SERRA BOM-5666",
+    "descricao": "Adaptador de serra sabre e tico-tico para furadeira BOM-5666.",
+    "preco": 55.2,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/adaptador-serra-bom-5666.webp",
+    "destaque": false
+  },
+  {
+    "id": 204,
+    "nome": "JOGO DE SERRA COPO 11PCS BOM-5221",
+    "descricao": "Jogo de serra copo com 11 peças em estojo modelo BOM-5221.",
+    "preco": 30,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/jogo-de-serra-copo-11pcs-bom-5221.webp",
+    "destaque": false
+  },
+  {
+    "id": 205,
+    "nome": "JOGO DE SERRA COPO BOM-5222",
+    "descricao": "Jogo de serra copo profissional em estojo modelo BOM-5222.",
+    "preco": 51.6,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/jogo-de-serra-copo-bom-5222.webp",
+    "destaque": false
+  },
+  {
+    "id": 206,
+    "nome": "ADAPTADOR DE SERRA BOM-5670",
+    "descricao": "Adaptador de serra circular para furadeira/esmerilhadeira BOM-5670.",
+    "preco": 57.6,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/adaptador-de-serra-bom-5670.webp",
+    "destaque": false
+  },
+  {
+    "id": 207,
+    "nome": "MOTOSSERRA BOM-5669",
+    "descricao": "Adaptador de motosserra para esmerilhadeira modelo BOM-5669.",
+    "preco": 72,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/motosserra-bom-5669.webp",
+    "destaque": false
+  },
+  {
+    "id": 208,
+    "nome": "SERRA CIRCULAR BOM-9646",
+    "descricao": "Serra circular de bancada profissional modelo BOM-9646.",
+    "preco": 900,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/serra-circular-bom-9646.webp",
+    "destaque": false
+  },
+  {
+    "id": 209,
+    "nome": "SERRA DE ESQUADRIA BOM-9640",
+    "descricao": "Serra de esquadria elétrica de alta precisão modelo BOM-9640.",
+    "preco": 624,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/serra-de-esquadria-bom-9640.webp",
+    "destaque": false
+  },
+  {
+    "id": 210,
+    "nome": "MINI SERRA DE BANCADA BOM-9608",
+    "descricao": "Mini serra de bancada multifuncional modelo BOM-9608.",
+    "preco": 756,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/mini-serra-de-bancada-bom-9608.webp",
+    "destaque": false
+  },
+  {
+    "id": 211,
+    "nome": "SERRA COPO 55MM BOM-1933",
+    "descricao": "Serra copo para perfuração de 55mm modelo BOM-1933.",
+    "preco": 67.2,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/serra-copo-55mm-bom-1933.webp",
+    "destaque": false
+  },
+  {
+    "id": 212,
+    "nome": "SERRA COPO 60MM BOM-1934",
+    "descricao": "Serra copo para perfuração de 60mm modelo BOM-1934.",
+    "preco": 72,
+    "categoria": "Ferramentas",
+    "imagem": "produtos/serra-copo-60mm-bom-1934.webp",
+    "destaque": false
   }
+
 ]
