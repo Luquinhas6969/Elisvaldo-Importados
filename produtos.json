@@ -1589,7 +1589,7 @@
     "descricao": "Kit saca parafusos e pontas para parafusadeira BOM-5205 com 8 peças.",
     "preco": 36,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/kit-saca-parafusadeira-8-pcs-bom-5205.webp",
+    "imagem": "produtos/kit-saca-parafusadeira-8-pcs-bom-5205.webp",
     "destaque": false
   },
   {
@@ -1598,7 +1598,7 @@
     "descricao": "Adaptador de ângulo/extensão para parafusadeira modelo BOM-S648.",
     "preco": 66,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/adaptador-de-parafusadeira-bom-s648.webp",
+    "imagem": "produtos/adaptador-de-parafusadeira-bom-s648.webp",
     "destaque": false
   },
   {
@@ -1607,7 +1607,7 @@
     "descricao": "Parafusadeira elétrica a bateria sem fios modelo LWJ-278 com acessórios.",
     "preco": 192,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-lwj-278.webp",
+    "imagem": "produtos/parafusadeira-lwj-278.webp",
     "destaque": false
   },
   {
@@ -1616,7 +1616,7 @@
     "descricao": "Parafusadeira e furadeira de impacto a bateria modelo BOM-9749.",
     "preco": 360,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-bom-9749.webp",
+    "imagem": "produtos/parafusadeira-bom-9749.webp",
     "destaque": false
   },
   {
@@ -1625,7 +1625,7 @@
     "descricao": "Parafusadeira a bateria recarregável modelo HWN-GJX28 com maleta.",
     "preco": 117.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-hwn-gjx28.webp",
+    "imagem": "produtos/parafusadeira-hwn-gjx28.webp",
     "destaque": false
   },
   {
@@ -1634,7 +1634,7 @@
     "descricao": "Parafusadeira a bateria modelo BOM-9961 com conjunto de brocas e bits.",
     "preco": 105.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-bom-9961.webp",
+    "imagem": "produtos/parafusadeira-bom-9961.webp",
     "destaque": false
   },
   {
@@ -1643,7 +1643,7 @@
     "descricao": "Parafusadeira e furadeira a bateria modelo BOM-9962 com maleta.",
     "preco": 156,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-bom-9962.webp",
+    "imagem": "produtos/parafusadeira-bom-9962.webp",
     "destaque": false
   },
   {
@@ -1652,7 +1652,7 @@
     "descricao": "Kit completo de ferramentas para oficina com parafusadeira BOM-9908.",
     "preco": 420,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/kit-oficina-c-parafusadeira-bom-9908.webp",
+    "imagem": "produtos/kit-oficina-c-parafusadeira-bom-9908.webp",
     "destaque": false
   },
   {
@@ -1661,7 +1661,7 @@
     "descricao": "Jogo de ferramentas completo com parafusadeira modelo BOM-9909.",
     "preco": 456,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/kit-oficina-com-parafusadeira-bom-9909.webp",
+    "imagem": "produtos/kit-oficina-com-parafusadeira-bom-9909.webp",
     "destaque": false
   },
   {
@@ -1670,7 +1670,7 @@
     "descricao": "Parafusadeira e furadeira de alta eficiência modelo LWJ-219PLUS.",
     "preco": 264,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-lwj-219plus.webp",
+    "imagem": "produtos/parafusadeira-lwj-219plus.webp",
     "destaque": false
   },
   {
@@ -1679,7 +1679,7 @@
     "descricao": "Parafusadeira compacta a bateria 12V modelo BOM-9960.",
     "preco": 81.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/parafusadeira-bateria-12v-bom-9960.webp",
+    "imagem": "produtos/parafusadeira-bateria-12v-bom-9960.webp",
     "destaque": false
   },
   {
@@ -1688,7 +1688,7 @@
     "descricao": "Adaptador para cabeçote de parafusadeira modelo BOM-S653.",
     "preco": 31.2,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/adap-para-parafusadeira-bom-s653.webp",
+    "imagem": "produtos/adap-para-parafusadeira-bom-s653.webp",
     "destaque": false
   },
   {
@@ -1706,7 +1706,7 @@
     "descricao": "Chave de biela formato L de 13mm modelo BOM-1486.",
     "preco": 14.4,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-de-biela-l-13mm-bom-1486.webp",
+    "imagem": "produtos/chave-de-biela-l-13mm-bom-1486.webp",
     "destaque": false
   },
   {
@@ -1715,7 +1715,7 @@
     "descricao": "Chave combinada boca e estria de 8mm modelo BOM-1432.",
     "preco": 7.2,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-combinada-8mm-bom-1432.webp",
+    "imagem": "produtos/chave-combinada-8mm-bom-1432.webp",
     "destaque": false
   },
   {
@@ -1724,7 +1724,7 @@
     "descricao": "Chave fixa de boca dupla 6-7mm modelo BOM-1401.",
     "preco": 5.4,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-fixa-67mm-bom-1401.webp",
+    "imagem": "produtos/chave-fixa-67mm-bom-1401.webp",
     "destaque": false
   },
   {
@@ -1733,7 +1733,7 @@
     "descricao": "Chave combinada profissional de 17mm modelo BOM-1441.",
     "preco": 10.8,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-bom-1441-17mm.webp",
+    "imagem": "produtos/chave-bom-1441-17mm.webp",
     "destaque": false
   },
   {
@@ -1742,7 +1742,7 @@
     "descricao": "Chave combinada resistente modelo BOM-1448.",
     "preco": 16.8,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-combina-bom-1448.webp",
+    "imagem": "produtos/chave-combina-bom-1448.webp",
     "destaque": false
   },
   {
@@ -1751,7 +1751,7 @@
     "descricao": "Chave de boca autoajustável articulada modelo BOM-1202.",
     "preco": 34.8,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/chave-de-boca-bom-1202.webp",
+    "imagem": "produtos/chave-de-boca-bom-1202.webp",
     "destaque": false
   },
   {
@@ -1760,7 +1760,7 @@
     "descricao": "Torquímetro de estalo profissional para soquete 1/2 polegada BOM-1245.",
     "preco": 120,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/torquimetro-estalo-bom-1245.webp",
+    "imagem": "produtos/torquimetro-estalo-bom-1245.webp",
     "destaque": false
   },
   {
@@ -1769,7 +1769,7 @@
     "descricao": "Torquímetro de estalo para soquete 1/4 polegada modelo BOM-1244.",
     "preco": 93.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/torquimetro-estalo-bom-1244.webp",
+    "imagem": "produtos/torquimetro-estalo-bom-1244.webp",
     "destaque": false
   },
   {
@@ -1778,7 +1778,7 @@
     "descricao": "Par de luvas de algodão de proteção com pigmentos antiderrapantes BOM-7115.",
     "preco": 4.2,
     "categoria": "Acessórios",
-    "imagem": "assets/produtos/luva-de-algodao-bom-7115.webp",
+    "imagem": "produtos/luva-de-algodao-bom-7115.webp",
     "destaque": false
   },
   {
@@ -1787,7 +1787,7 @@
     "descricao": "Jogo com 6 peças de pontas de chave Phillips prolongadas BOM-5055.",
     "preco": 12,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/kit-6-pcs-pontas-de-chave-bom-5055.webp",
+    "imagem": "produtos/kit-6-pcs-pontas-de-chave-bom-5055.webp",
     "destaque": false
   },
   {
@@ -1796,7 +1796,7 @@
     "descricao": "Serra copo ajustável/regulável modelo BOM-5673.",
     "preco": 40.8,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/serra-copo-bom-5673.webp",
+    "imagem": "produtos/serra-copo-bom-5673.webp",
     "destaque": false
   },
   {
@@ -1805,7 +1805,7 @@
     "descricao": "Jogo de serra copo em estojo modelo BOM-5220 com acessórios.",
     "preco": 34.8,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/jogo-de-serra-copo-bom-5220.webp",
+    "imagem": "produtos/jogo-de-serra-copo-bom-5220.webp",
     "destaque": false
   },
   {
@@ -1814,7 +1814,7 @@
     "descricao": "Adaptador de serra sabre e tico-tico para furadeira BOM-5666.",
     "preco": 55.2,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/adaptador-serra-bom-5666.webp",
+    "imagem": "produtos/adaptador-serra-bom-5666.webp",
     "destaque": false
   },
   {
@@ -1823,7 +1823,7 @@
     "descricao": "Jogo de serra copo com 11 peças em estojo modelo BOM-5221.",
     "preco": 30,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/jogo-de-serra-copo-11pcs-bom-5221.webp",
+    "imagem": "produtos/jogo-de-serra-copo-11pcs-bom-5221.webp",
     "destaque": false
   },
   {
@@ -1832,7 +1832,7 @@
     "descricao": "Jogo de serra copo profissional em estojo modelo BOM-5222.",
     "preco": 51.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/jogo-de-serra-copo-bom-5222.webp",
+    "imagem": "produtos/jogo-de-serra-copo-bom-5222.webp",
     "destaque": false
   },
   {
@@ -1841,7 +1841,7 @@
     "descricao": "Adaptador de serra circular para furadeira/esmerilhadeira BOM-5670.",
     "preco": 57.6,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/adaptador-de-serra-bom-5670.webp",
+    "imagem": "produtos/adaptador-de-serra-bom-5670.webp",
     "destaque": false
   },
   {
@@ -1850,7 +1850,7 @@
     "descricao": "Adaptador de motosserra para esmerilhadeira modelo BOM-5669.",
     "preco": 72,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/motosserra-bom-5669.webp",
+    "imagem": "produtos/motosserra-bom-5669.webp",
     "destaque": false
   },
   {
@@ -1859,7 +1859,7 @@
     "descricao": "Serra circular de bancada profissional modelo BOM-9646.",
     "preco": 900,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/serra-circular-bom-9646.webp",
+    "imagem": "produtos/serra-circular-bom-9646.webp",
     "destaque": false
   },
   {
@@ -1868,7 +1868,7 @@
     "descricao": "Serra de esquadria elétrica de alta precisão modelo BOM-9640.",
     "preco": 624,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/serra-de-esquadria-bom-9640.webp",
+    "imagem": "produtos/serra-de-esquadria-bom-9640.webp",
     "destaque": false
   },
   {
@@ -1877,7 +1877,7 @@
     "descricao": "Mini serra de bancada multifuncional modelo BOM-9608.",
     "preco": 756,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/mini-serra-de-bancada-bom-9608.webp",
+    "imagem": "produtos/mini-serra-de-bancada-bom-9608.webp",
     "destaque": false
   },
   {
@@ -1886,7 +1886,7 @@
     "descricao": "Serra copo para perfuração de 55mm modelo BOM-1933.",
     "preco": 67.2,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/serra-copo-55mm-bom-1933.webp",
+    "imagem": "produtos/serra-copo-55mm-bom-1933.webp",
     "destaque": false
   },
   {
@@ -1895,7 +1895,7 @@
     "descricao": "Serra copo para perfuração de 60mm modelo BOM-1934.",
     "preco": 72,
     "categoria": "Ferramentas",
-    "imagem": "assets/produtos/serra-copo-60mm-bom-1934.webp",
+    "imagem": "produtos/serra-copo-60mm-bom-1934.webp",
     "destaque": false
   }
 ]
